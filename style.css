@@ -1,0 +1,18 @@
+.column {
+    width: 25%;
+    padding: 10px;
+  }
+  .column img {
+    opacity: 0.8; 
+    cursor: pointer; 
+  }
+  .column img:hover {
+    opacity: 1;
+  }
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .container {
+    position: relative;
+  }
